@@ -1,0 +1,70 @@
+{
+    "tabs" : {
+        "one"   : {
+            "html"  : "This is the first tab",
+            "title" : "First Tab"
+        },
+        "two"   : {
+            "html"  : "This is the second tab",
+            "title" : "Second Tab"
+        },
+        "three" : {
+            "html"  : "This is the third tab",
+            "title" : "Third Tab"
+        }
+    },
+    "pages" : {
+        "one" : {
+            "title" : "First Page"
+        },
+        "extra" : {
+            "title" : "Extra Page"
+        }
+    },
+    "buttons" : {
+        "cancel" : "Cancel",
+        "save"   : "Save",
+        "done"   : "Done",
+        "addView": "Add View",
+        "enter"  : "Enter"
+    },
+    "label": {
+        "hotelinfo": "<img src='resources/images/sleek_theme/icons/Hotel_information.png'><br/><br/>Hotel Information",
+        "concierge": "<img src='resources/images/sleek_theme/icons/Concierge.png'><br/><br/>Concierge Services",
+        "restaurant": "<img src='resources/images/sleek_theme/icons/f&b.png'><br/><br>Food &amp; Beverages",
+        "activities": "<img src='resources/images/sleek_theme/icons/activities.png'><br/><br>Activities",
+        "event": "<img src='resources/images/sleek_theme/icons/event.png'><br/><br/>Events",
+        "gallery": "<img src='resources/images/sleek_theme/icons/gallery.png'><br/><br>Gallery"
+        /*"movieservice": "<img src='resources/images/sleek_theme/icons/icon7.png'><br/><br/>Movie Services",
+        "wifi": "<img src='resources/images/sleek_theme/icons/icon8.png'><br/><br>WiFi Connections",
+        "customes": "<img src='resources/images/sleek_theme/icons/icon9.png'><br/><br>Customer Info"*/
+    },
+    "misc" : {
+        "bottomTitle"   : "Bottom Toolbar",
+        "loadLocaleMsg" : "Loading...",
+        "back"          : "Back"
+    },
+    "fields" : {
+        "name" : "Name",
+        "dateLabel" : "Date",
+        "datePlaceholder" : "Choose Date"
+    },
+    "fieldsets" : {
+        "title" : "Fieldset Title",
+        "instructions" : "fieldset instructions"
+    }
+    /*"months" : {
+        "1"  : "January",
+        "2"  : "February",
+        "3"  : "March",
+        "4"  : "April",
+        "5"  : "May",
+        "6"  : "June",
+        "7"  : "July",
+        "8"  : "August",
+        "9"  : "September",
+        "10" : "October",
+        "11" : "November",
+        "12" : "December"
+    }*/
+}

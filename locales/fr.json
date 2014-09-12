@@ -1,0 +1,72 @@
+{
+    "tabs" : {
+        "one"   : {
+            "html"  : "Ceci est le premier onglet",
+            "title" : "Onglet Abord"
+        },
+        "two"   : {
+            "html"  : "Ceci est le deuxième onglet",
+            "title" : "Deuxième Onglet"
+        },
+        "three" : {
+            "html"  : "C'est le troisième onglet",
+            "title" : "Troisième Onglet"
+        }
+    },
+    "pages" : {
+        "one" : {
+            "title" : "Première Page"
+        },
+        "extra" : {
+            "title" : "Page Supplémentaire"
+        }
+    },
+    "buttons" : {
+        "cancel" : "Annuler",
+        "save"   : "Enregistrer",
+        "done"   : "Fait",
+        "addView": "Ajouter Voir",
+        "enter"  : "Qnter"
+    },
+    "label": {
+        "hotelinfo": "<img src='resources/images/sleek_theme/icons/Hotel_information.png'><br/><br/>معلومات عن الفندق",
+        "concierge": "<img src='resources/images/sleek_theme/icons/Concierge.png'><br/><br>خدمة كونسيرج",
+        "restaurant": "<img src='resources/images/sleek_theme/icons/f&b.png'><br/><br>المأكولات و المشروبات",
+        "activities": "<img src='resources/images/sleek_theme/icons/activities.png'><br/><br>الأنشطة",
+        "gallery": "<img src='resources/images/sleek_theme/icons/gallery.png'><br/><br>معرض",
+        //"chanels": "<img src='resources/icons/icon4.png'><br/><br>قناة والتلفزيون",
+        "event": "<img src='resources/images/sleek_theme/icons/event.png'><br/><br>الأحداث"
+       /* "busservive": "<img src='resources/icons/icon6.png'><br/><br>خدمة الحافلات",
+        "movieservice": "<img src='resources/icons/icon7.png'><br/><br>خدمة الأفلام",
+        "wifi": "<img src='resources/icons/icon8.png'><br/><br>واي فاي",
+        "customes": "<img src='resources/icons/icon9.png'><br/><br>معلومات العملاء"*/
+    },
+    "misc" : {
+        "bottomTitle"   : "barre d'outils en bas",
+        "loadLocaleMsg" : "Chargement en cours ...",
+        "back"          : "Retour"
+    },
+    "fields" : {
+        "name" : "Nom",
+        "dateLabel" : "la date",
+        "datePlaceholder" : "choisir la date"
+    },
+    "fieldsets" : {
+        "title" : "Ensemble de champs",
+        "instructions" : "des instructions en français"
+    }
+    /*"months" : {
+        "1"  : "Janvier",
+        "2"  : "Février",
+        "3"  : "Mars",
+        "4"  : "Avril",
+        "5"  : "Mai",
+        "6"  : "Juin",
+        "7"  : "Juillet",
+        "8"  : "Août",
+        "9"  : "Septembre",
+        "10" : "Octobre",
+        "11" : "Novembre",
+        "12" : "Décembre"
+    }*/
+}

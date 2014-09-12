@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.crotus.auravaletsa"
+        versionCode = "8" 
+        version     = "1.4" >
+        <!-- versionCode is optional and Android only -->
+        <name>Aura Valet Sheraton</name>
+        <description>Aura Valet Sheraton</description>
+
+        <gap:plugin name = "org.apache.cordova.splashscreen" />
+        <preference name="SplashScreen" value="screen" />
+        <preference name="SplashScreenDelay" value="13000" />
+        <preference name="orientation" value="default" />
+        <preference name="ios-statusbarstyle" value="black-opaque" />
+
+        <author href="http://crotustechnologies.com" email="info@crotus.net">Crotus Technologies</author>
+
+        <icon src="resources/icons/android/xhdpi.png" />
+
+        <!--<icon gap:platform="android" src="resources/icons/android/ldpi.png" gap:density="ldpi" />
+        <icon gap:platform="android" src="resources/icons/android/mdpi.png" gap:density="mdpi" />
+        <icon gap:platform="android" src="resources/icons/android/hdpi.png" gap:density="hdpi" />
+        <icon gap:platform="android" src="resources/icons/android/xhdpi.png" gap:density="xhdpi" />
+
+        <icon gap:platform="ios" height="57" src="res/icon/ios/icon-57.png" width="57" />
+        <icon gap:platform="ios" height="72" src="res/icon/ios/icon-72.png" width="72" />
+        <icon gap:platform="ios" height="114" src="res/icon/ios/icon-57-2x.png" width="114" />
+        <icon gap:platform="ios" height="144" src="res/icon/ios/icon-72-2x.png" width="144" />
+
+        <icon gap:platform="webos" src="resources/icons/android/xhdpi.png" />
+        <icon gap:platform="winphone" src="resources/icons/android/xhdpi.png" />
+        <icon gap:platform="winphone" gap:role="background" src="resources/icons/android/xhdpi.png" />-->
+
+
+        <gap:splash gap:platform="android" src="resources/loading/loadingpage.png" gap:density="ldpi" />
+        <gap:splash gap:platform="android" src="resources/loading/loadingpage.png" gap:density="mdpi" />
+        <gap:splash gap:platform="android" src="resources/loading/loadingpage.png" gap:density="hdpi" />
+        <gap:splash gap:platform="android" src="resources/loading/loadingpage.png" gap:density="xhdpi" />
+
+        <gap:splash gap:platform="ios" src="resources/loading/loadingpage.png" width="768"  />
+        <gap:splash gap:platform="ios" src="resources/loading/loadingpage_land.png" width="1024"  />
+
+        <!--<gap:splash gap:platform="ios" src="res/screen/ios/screen-iphone-portrait-2x.png" width="640" />
+        <gap:splash gap:platform="ios" src="res/screen/ios/screen-ipad-portrait.png" width="768" />
+        <gap:splash gap:platform="ios" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />-->
+
+        <!--<gap:splash gap:platform="winphone" src="resources/loading/loadingpage.png" />-->
+
+</widget>

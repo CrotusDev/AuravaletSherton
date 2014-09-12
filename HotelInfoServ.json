@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Accommodation",
+        "Img": "Accommodation.png",
+        "Lang_ID": 0,
+        "Info_ID": 1,
+        "ShortCode": null
+    },
+    {
+        "Name": "Facilities",
+        "Img": "facilities.png",
+        "Lang_ID": 0,
+        "Info_ID": 2,
+        "ShortCode": null
+    }
+]
